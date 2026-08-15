@@ -12,3 +12,4 @@ np-nandanpatil/np-nandanpatil is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Ksham Verified Skill](https://ksham.in/api/share/card/np-nandanpatil.png)](https://ksham.in/u/np-nandanpatil)
